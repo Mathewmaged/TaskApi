@@ -1,0 +1,9 @@
+F:\urlTask\Mathew\UrlApis\UrlApis\DataAccessLayer\bin\Debug\netstandard2.0\DataAccessLayer.deps.json
+F:\urlTask\Mathew\UrlApis\UrlApis\DataAccessLayer\bin\Debug\netstandard2.0\DataAccessLayer.dll
+F:\urlTask\Mathew\UrlApis\UrlApis\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.AssemblyInfoInputs.cache
+F:\urlTask\Mathew\UrlApis\UrlApis\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.AssemblyInfo.cs
+F:\urlTask\Mathew\UrlApis\UrlApis\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.csprojAssemblyReference.cache
+F:\urlTask\Mathew\UrlApis\UrlApis\DataAccessLayer\bin\Debug\netstandard2.0\DataAccessLayer.pdb
+F:\urlTask\Mathew\UrlApis\UrlApis\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.dll
+F:\urlTask\Mathew\UrlApis\UrlApis\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.pdb
+F:\urlTask\Mathew\UrlApis\UrlApis\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.csproj.CoreCompileInputs.cache

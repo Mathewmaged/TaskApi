@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "WvYQasTVhwzTmKndOZKR9+VypblmAhRJtmGdU4E8wk0DZCUFmoOlw2eH/T4hdhHhBZ0pDO0Gm3wYfOsmk3/j8A==",
+  "success": true,
+  "projectFilePath": "F:\\urlTask\\Mathew\\UrlApis\\UrlApis\\DataBuissinesLayer\\DataBuissinesLayer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mathew M.Nan\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Mathew M.Nan\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
